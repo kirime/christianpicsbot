@@ -6,7 +6,7 @@ chardet==5.2.0
 charset-normalizer==3.2.0
 cryptography==41.0.6
 decorator==5.1.1
-idna==3.4
+idna==3.7
 pycparser==2.21
 python-telegram-bot==13.4.1
 pytz==2023.3
